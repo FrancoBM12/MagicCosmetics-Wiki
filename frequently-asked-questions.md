@@ -30,4 +30,4 @@ and deactivate the option inside `Plugin.formatting.inventory_titles` after this
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>plugins/Oraxen/settings.yml</p></figcaption></figure>
 
-Your question it's not solved? You can ask in our official [MagicCosmetics Discord Server](https://discord.com/invite/XHjh5skj)
+Your question it's not solved? You can ask in our official [MagicPlugins Support Discord Server](https://discord.com/invite/XHjh5skj)
