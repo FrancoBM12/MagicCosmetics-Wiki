@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Bienvenida](README.md)
 * [Type of cosmetics](type-of-cosmetics.md)
 * [Cosmetics creation](cosmetics-creation/README.md)
   * [Original](cosmetics-creation/original/README.md)
