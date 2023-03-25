@@ -1,14 +1,14 @@
 ---
-description: Hello, Here you will find varieties to have experience in the plugin.
+Descripción: Hola, Here you will find varieties to have experience in the plugin.
 ---
 
-# Welcome
+# Bienvenido
 
-This introduction will introduce you to the main strengths of the plugin and why you should have it and use it.
+Esta sección te introducirá a los puntos fuertes del plugin y el por qué deberías de tenerlo y usarlo.
 
-## What plugins does MagicCosmetics support?
+## ¿Qué plugins tienen soporte con MagicCosmetics?
 
-supports a variety of plugins such as:
+Tiene soporte con variedad de plugins como:
 
 * Oraxen
 * ItemsAdder
@@ -17,34 +17,34 @@ supports a variety of plugins such as:
 * PlaceholderAPI
 * Citizens
 * LuckPerms
-* It has a plugin dedicated to profiles that support cosmetics called [PlayerProfile](https://www.spigotmc.org/resources/playerprofile-for-magic-cosmetic.103067/).
+* Tiene un plugin dedicado de perfiles de usuario que tiene soporte con los cosméticos llamado [PlayerProfile](https://www.spigotmc.org/resources/playerprofile-for-magic-cosmetic.103067/).
 
-## What are your dependencies?
+## ¿Cuáles son sus dependencias?
 
-Hey, the plugin doesn't need any dependencies! You can use it alone and still enjoy all the content.\
-Although if you already use some of the plugins it supports it would be better to use the forms designed for such plugins.
+¿Este plugin no necesita ninguna dependencia! Puede utilizarlo solo y seguir disfrutando de todo su contenido.\
+De todas maneras, si usa alguno de los plugins con los que tiene soporte será mejor usarlo de las formas diseñadas para dichos plugins.
 
-## For which versions is it available?
+## ¿Para qué versiones está disponible?
 
-The plugin supports versions from 1.16.5 to 1.19.x.\
-You can enjoy this plugin in this range of very entertaining versions!
+Este plugin soporta las versiones desde la 1.16.5 hasta 1.19.x.\
+¡Puedes disfrutar del plugin en este rango de versiones!
 
-## Why MagicCosmetics?
+## ¿Por qué MagicCosmetics?
 
-MagicCosmetics is a cosmetics plugin designed to give the server one of the best experiences in terms of player and cosmetics.\
-we have a total quantity of 5 different [types of cosmetics](type-of-cosmetics.md)\
-It is fully configurable, and we do not like that players can not use all the features of the plugin, because that would limit them and that is not our intention!\
-It has a unique wardrobe, menu & token system.\
-It has a free color menu where you can dye any type of item (dyeable) according to the condition you set!\
-you can unlock cosmetics by permissions or by tokens\
-has MySQL support\
-Everything works client-side so it should not affect the server at all.\
-Among many other things.\
+MagicCosmetics es un plugin de cosméticos diseñado para dar al servidor una de las mejores experiencias en términes de jugador y cosméticos,\
+tenemos un total de 5 [tipos de cósmetico](type-of-cosmetics.md) diferentes.\
+Es totalmente configurable, y no nos gusta que los jugadores no puedan aprochechar todas las ventajas del plugin, porque eso podría limitarlos y no es nuestra intención.\
+Tiene un sistema único de vestidor, menú y monedas.\
+Tiene un menú de selector de colores y puedes tintar cualquier tipo de item (tintable) de acuerdo a la condición que hayas seleccionado.\
+Puedes debloquear cosméticos tanto por permisos, como por monedas.\
+Tiene soporte MySQL\
+Todo funciona client-side, por lo que no afecta al servidor del todo.\
+Y muchas cosas más.\
 
 
-## How do I get started?
+## ¿Cómo empiezo?
 
-Well, you can learn how to create cosmetics here.
+Puedes aprender a como crear cosméticos aquí:
 
 {% content-ref url="cosmetics-creation/" %}
 [cosmetics-creation](cosmetics-creation/)
