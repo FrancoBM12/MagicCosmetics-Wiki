@@ -1,39 +1,39 @@
 ---
-description: Here you will find the guide to create a cosmetic of any kind.
+description: Aquí encontrarás el como crear cosméticos de cualquier tipo.
 ---
 
-# Cosmetics creation
+# Creación de cosméticos
 
-Here you can find out how to create a cosmetic\
-Either without any plugin that supports modified items\
-or on the contrary, know how to create cosmetics with this type of plugins such as ItemsAdder or Oraxen.
+Aquí podrás encontrar como crear un cosmético.\
+También sin ningún plugin que tenga soporte de objetos modificados\
+o por lo contrario, saber como crear cosméticos con este tipo de plugins como ItemsAdder y Oraxen.
 
-Different types of cosmetics have unique options that are not shared. This time I will show you the options that are shared by all cosmetics.
+Diferentes tipos de cosméticos tienen opciones únicas que no son compartidas. Ahora mismo, te enseñaremos las opciones compartidas con todos los cosméticos.
 
 ```yaml
 cosmetics:
-  test_balloon: #this will be the id of the cosmetic
-    permission: 'cosmetics.test_balloon' #to use the permission, you must have the permissions option enabled in the config.
+  test_balloon: #Esta será la id del cosmético
+    permission: 'cosmetics.test_balloon' #Para usar permisos, debes de tener la opción de permisos habilitada en la configuración.
     item:
-      display: '&btest balloon' #name that the cosmetic item will have
-      texture: 'here' #in case your item is a head, you can choose the texture of the head with this path!
-      material: LEATHER_HORSE_ARMOR #cosmetic material if you use ItemsAdder you can delete this path
-      #if you use the ItemsAdder or Oraxen plugin you can just put the name of your item here and it will suffice
-      item-adder: balloon #optional
-      oraxen: balloon #optional
-      lore: #lore of the item if you don't want it to have a lore you can delete the path
+      display: '&btest balloon' #Nombre que tendrá el cosmético
+      texture: 'here' #En caso de que su objeto sea una cabeza, puede seleccionar la textura de la cabeza desde esta sección.
+      material: LEATHER_HORSE_ARMOR #Material del cosmético, si usa ItemsAdder puede borrar esto.
+      #Si usa ItemsAdder o Oraxen, puede simplemente poner el nombre del objeto aquí.
+      item-adder: balloon #Opcional
+      oraxen: balloon #Opcional
+      lore: #Lore del item, si no quiere ponerle lore, puede borrar esta sección.
       - ''
       - '&cfirst'
       - ''
-      unbreakable: true #select if the item will be unbreakable!
-      glow: true #selects whether the item will have a glow effect.
-      hide-attributes: true #select if the item will hide the attributes.
-      modeldata: 10030 #here goes the model data of the item if the item is from the ItemsAdder or Oraxen plugin it will skip this.
-      color: '#004F71' #Set the default color of the cosmetic (in case you want one).
-    colored: false #select if the cosmetic will be colorable
-    type: BALLOON #select the type of cosmetic
-    hide-menu: false #It will make the cosmetic visible or not in the menu.
-    use-emote: false #This is used to specify if you want a cosmetic to be shown when using an ItemsAdder emote. By default it is disabled.
+      unbreakable: true #Hace el objeto irrompible.
+      glow: true #El objeto tendrá el efecto de glow.
+      hide-attributes: true #Esconde los atributos del objeto.
+      modeldata: 10030 #Aquí va el Custom Model Data del objeto, si usas ItemsAdder o Oraxen puede saltarselo.
+      color: '#004F71' #Color por defecto del cosmético (en caso de que quiera uno).
+    colored: false #Hace que el objeto pueda tintarse.
+    type: BALLOON #Tipo de cosmético
+    hide-menu: false #Hace el cosmético visible o no en el menú.
+    use-emote: false #Esto es usado específicamente si quieres que el objeto sea visible usando una animación de ItemsAdder. Por defecto, aparecerá en 'false'.
 ```
 
-And, these are all options that are shared among all types of cosmetics.
+Y estos son todas las opciones que son compartidas con todo los tipos de cosméticos.
