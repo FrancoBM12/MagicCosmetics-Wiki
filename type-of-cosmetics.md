@@ -6,7 +6,7 @@ description: Aquí descubrirás los tipos de cosméticos.
 
 De momento, disponemos de 5 tipos de cosméticos diferentes.
 
-## Gorros:
+## Sombreros:
 
 Este cosmético hace uso de la ranura del casco, pero esto no implica que no puedas llevar tu armadura y tu gorro al mismo tiempo ;)
 
@@ -14,9 +14,9 @@ Este cosmético hace uso de la ranura del casco, pero esto no implica que no pue
 
 Este cosmético no hace uso de ninguno de las ranuras del inventario. Es una entidad montada en la cabeza del jugardor que sostiene el objeto de la mochila... Ingenioso ¿verdad?
 
-## Mano sin uso:
+## Mano alterna:
 
-Este cosmético es similar al sombrero en la que ocupa la ranura de la mano sin uso, igualmente, puedes llevar el cosmético y el objeto que tengas al mismo tiempo.
+Este cosmético es similar al sombrero en la que ocupa la ranura de la mano alterna, igualmente, puedes llevar el cosmético y el objeto que tengas al mismo tiempo.
 
 ## Globo:
 
