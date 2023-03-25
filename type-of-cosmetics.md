@@ -1,31 +1,31 @@
 ---
-description: Here you will discover all the types of cosmetics that are available.
+description: Aquí descubrirás los tipos de cosméticos.
 ---
 
-# Type of cosmetics
+# Tipos de cosméticos
 
-At the moment we have 5 different types of cosmetics.
+De momento, disponemos de 5 tipos de cosméticos diferentes.
 
-## Hat:
+## Gorros:
 
-This cosmetic makes use of your helmet slot, but this does not imply that you cannot wear a helmet and a hat at the same time ;)
+Este cosmético hace uso de la ranura del casco, pero esto no implica que no puedas llevar tu armadura y tu gorro al mismo tiempo ;)
 
-## BackPack:
+## Mochilas:
 
-This cosmetic does not make use of any inventory slots. It is an entity mounted on the player's head that carries the item from the backpack... ingenious isn't it?
+Este cosmético no hace uso de ninguno de las ranuras del inventario. Es una entidad montada en la cabeza del jugardor que sostiene el objeto de la mochila... Ingenioso ¿verdad?
 
-## Off Hand:
+## Mano sin uso:
 
-This cosmetic is similar to the hat in that it occupies the off hand slot, however you can have your off hand cosmetic and your item at the same time.
+Este cosmético es similar al sombrero en la que ocupa la ranura de la mano sin uso, igualmente, puedes llevar el cosmético y el objeto que tengas al mismo tiempo.
 
-## Balloon:
+## Globo:
 
-The balloons were a little tricky at first. once you get the hang of them they become easy. It's simple, you float an invisible entity with an item on its head that represents the balloon attached to a rope you carry.
+Los globos fueron un poco complicados al principio, una vez que los dominas se vuelven sencillos. Es simple, hace flotar una entidad con un objeto en su cabeza que representa el globo atado a la cuerda que llevas.
 
-## Spray:
+## Grafittis:
 
-The sprays were one of the last cosmetics to be made. It wasn't really in our plans to do it but people were asking for it so it was a given that it had to be.\
-The sprays work as simply as that, it is a colored map inside a frame or an item inside a frame. It's that simple!
+Los grafittis fueron los últimos cosméticos en ser añadidos. No estaban realmente en nuestros planes de hacerlos, pero la gente los pedían así que tuvimos que hacerlo.\
+Los grafittis funcionan simplemente como eso, un mapa coloreado dentro de un marco, o un objeto dentro de un marco. ¡Super simple!
 
 ## ¿¿¿??:
 
