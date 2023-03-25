@@ -1,8 +1,8 @@
 # Table of contents
 
-* [👋 Bienvenida](README.md)
-* [📜 Tipos de cosméticos](type-of-cosmetics.md)
-* [🎨 Creación de cosméticos](cosmetics-creation/README.md)
+* [Bienvenida](README.md)
+* [Tipos de cosméticos](type-of-cosmetics.md)
+* [Creación de cosméticos](cosmetics-creation/README.md)
   * [Original](cosmetics-creation/original/README.md)
     * [Sombreros](cosmetics-creation/original/hat.md)
     * [Mochilas](cosmetics-creation/original/backpack.md)
@@ -26,5 +26,5 @@
     * [Colores](menus/for-itemsadder/colors.md)
     * [Objetos](menus/for-itemsadder/items.md)
     * [Menús y Paneles](menus/for-itemsadder/menus-and-panels.md)
-* [💰 Creación de monedas](tokens-creation.md)
-* [❓ Preguntas frecuentes](frequently-asked-questions.md)
+* [Creación de monedas](tokens-creation.md)
+* [Preguntas frecuentes](frequently-asked-questions.md)
