@@ -31,8 +31,8 @@ Este plugin soporta las versiones desde la 1.16.5 hasta 1.19.x.\
 
 ## ¿Por qué MagicCosmetics?
 
-MagicCosmetics es un plugin de cosméticos diseñado para dar al servidor una de las mejores experiencias en términes de jugador y cosméticos,\
-tenemos un total de 5 [tipos de cósmetico](type-of-cosmetics.md) diferentes.\
+MagicCosmetics es un plugin de cosméticos diseñado para dar al servidor una de las mejores experiencias en términes de jugador y cosméticos.\
+Tenemos un total de 5 [tipos de cósmetico](type-of-cosmetics.md) diferentes.\
 Es totalmente configurable, y no nos gusta que los jugadores no puedan aprochechar todas las ventajas del plugin, porque eso podría limitarlos y no es nuestra intención.\
 Tiene un sistema único de vestidor, menú y monedas.\
 Tiene un menú de selector de colores y puedes tintar cualquier tipo de item (tintable) de acuerdo a la condición que hayas seleccionado.\
