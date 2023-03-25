@@ -29,3 +29,5 @@ and deactivate the option inside `Plugin.formatting.inventory_titles` after this
 \- If your server is lower than 1.19.3 disable this option `Plugin.experimental.convert_pack_for_1_19_3`.
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>plugins/Oraxen/settings.yml</p></figcaption></figure>
+
+Your question it's not solved? You can ask in our official [MagicCosmetics Discord Server](https://discord.com/invite/XHjh5skj)
