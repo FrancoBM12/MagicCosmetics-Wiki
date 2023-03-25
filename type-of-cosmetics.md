@@ -22,10 +22,10 @@ Este cosmético es similar al sombrero en la que ocupa la ranura de la mano sin 
 
 Los globos fueron un poco complicados al principio, una vez que los dominas se vuelven sencillos. Es simple, hace flotar una entidad con un objeto en su cabeza que representa el globo atado a la cuerda que llevas.
 
-## Grafittis:
+## Grafitis:
 
-Los grafittis fueron los últimos cosméticos en ser añadidos. No estaban realmente en nuestros planes de hacerlos, pero la gente los pedían así que tuvimos que hacerlo.\
-Los grafittis funcionan simplemente como eso, un mapa coloreado dentro de un marco, o un objeto dentro de un marco. ¡Super simple!
+Los grafitis fueron los últimos cosméticos en ser añadidos. No estaban realmente en nuestros planes de hacerlos, pero la gente los pedían así que tuvimos que hacerlo.\
+Los grafitis funcionan simplemente como eso, un mapa coloreado dentro de un marco, o un objeto dentro de un marco. ¡Super simple!
 
 ## ¿¿¿??:
 
