@@ -1,5 +1,5 @@
 ---
-description: Hola, Here you will find varieties to have experience in the plugin.
+description: Hola, aquí encontrarás las variedades para conocer el plugin.
 ---
 
 # Bienvenido
