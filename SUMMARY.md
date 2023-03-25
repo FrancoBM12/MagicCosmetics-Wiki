@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bienvenida](README.md)
-* [Type of cosmetics](type-of-cosmetics.md)
+* [Tipos de cosméticos](type-of-cosmetics.md)
 * [Cosmetics creation](cosmetics-creation/README.md)
   * [Original](cosmetics-creation/original/README.md)
     * [Hat](cosmetics-creation/original/hat.md)
