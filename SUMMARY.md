@@ -27,4 +27,4 @@
     * [Items](menus/for-itemsadder/items.md)
     * [Menus & Panels](menus/for-itemsadder/menus-and-panels.md)
 * [Tokens creation](tokens-creation.md)
-* [❓ Frequently Asked Questions](frequently-asked-questions.md)
+* [Frequently Asked Questions](frequently-asked-questions.md)
