@@ -2,7 +2,7 @@
 description: You know how to create a off hand in the original way.
 ---
 
-# Off Hand
+# Mano alterna
 
 It is as simple to create an off hand cosmetic as it is to create a hat.\
 This is one such example:
@@ -23,7 +23,7 @@ cosmetics:
       hide-attributes: true
       modeldata: 10005 #off_hand model data
     colored: true
-    type: HAT
+    type: WALKING_STICK
     overlaps: true #If this option is enabled, you can have your off hand item and off hand cosmetic equipped at the same time.
 ```
 {% endcode %}
