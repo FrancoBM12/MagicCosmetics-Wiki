@@ -23,7 +23,7 @@ cosmetics:
       hide-attributes: true
       modeldata: 10005 #off_hand model data
     colored: true
-    type: HAT
+    type: WALKING_STICK
     overlaps: true #If this option is enabled, you can have your off hand item and off hand cosmetic equipped at the same time.
 ```
 {% endcode %}
