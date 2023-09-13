@@ -4,6 +4,8 @@ description: Here you will find the guide to create a cosmetic of any kind.
 
 # Cosmetics creation
 
+## Creation
+
 Here you can find out how to create a cosmetic\
 Either without any plugin that supports modified items\
 or on the contrary, know how to create cosmetics with this type of plugins such as ItemsAdder or Oraxen.
@@ -39,6 +41,8 @@ cosmetics:
 And, these are all options that are shared among all types of cosmetics.
 
 
+
+## Balloons
 
 > <mark style="color:red;">**Warning: If you use a Balloon from ModelEngine or ItemsAdder please make sure that your model contains bones for the leash, otherwise your balloon may not work correctly.**</mark>
 
