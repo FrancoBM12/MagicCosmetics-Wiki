@@ -37,3 +37,13 @@ cosmetics:
 ```
 
 And, these are all options that are shared among all types of cosmetics.
+
+
+
+> <mark style="color:red;">**Warning: If you use a Balloon from ModelEngine or ItemsAdder please make sure that your model contains bones for the leash, otherwise your balloon may not work correctly.**</mark>
+
+For MagicCosmetics to detect the leash bone, the name of your bone must begin with "l\_".
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>ModelEngine (Here you can use as many leash bones as you want).</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>ItemsAdder (Only one leash is allowed at the moment)</p></figcaption></figure>

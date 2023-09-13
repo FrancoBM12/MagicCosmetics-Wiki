@@ -2,7 +2,7 @@
 description: Here you will find the most frequently asked questions.
 ---
 
-# ❓ Frequently Asked Questions
+# Frequently Asked Questions
 
 Here you will find the most requested questions and if you don't find it here, you can let me know so I can add it =).
 
